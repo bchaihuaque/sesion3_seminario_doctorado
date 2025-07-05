@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.23)  5 JUL 2025 11:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.23)  5 JUL 2025 11:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1040,30 +1040,90 @@ File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
 aryplotmarks.code.tex
 File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (presentacion_co-location_bchd.aux
+)))
+(C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen322
+\ar@mcellbox=\box83
+\extrarowheight=\dimen323
+\NC@list=\toks58
+\extratabsurround=\skip65
+\backup@length=\skip66
+\ar@cellbox=\box84
+)
+\TX@col@width=\dimen324
+\TX@old@table=\dimen325
+\TX@old@col=\dimen326
+\TX@target=\dimen327
+\TX@delta=\dimen328
+\TX@cols=\count354
+\TX@ftn=\toks59
+)
+(C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen329
+\lightrulewidth=\dimen330
+\cmidrulewidth=\dimen331
+\belowrulesep=\dimen332
+\belowbottomsep=\dimen333
+\aboverulesep=\dimen334
+\abovetopsep=\dimen335
+\cmidrulesep=\dimen336
+\cmidrulekern=\dimen337
+\defaultaddspace=\dimen338
+\@cmidla=\count355
+\@cmidlb=\count356
+\@aboverulesep=\dimen339
+\@belowrulesep=\dimen340
+\@thisruleclass=\count357
+\@lastruleclass=\count358
+\@thisrulewidth=\dimen341
+)
+
+! LaTeX Error: Option clash for package xcolor.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \pgfplotsset
+                 {compat=1.17}
+The package xcolor has already been loaded with options:
+  []
+There has now been an attempt to load it with options
+  [table]
+Adding the global options:
+  ,table
+to your \documentclass declaration may fix this.
+Try typing  <return>  to proceed.
+
+(presentacion_co-location_bchd.aux
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 )
 \openout1 = `presentacion_co-location_bchd.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1103,17 +1163,17 @@ LaTeX Font Info:    ... okay on input line 17.
 (C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count354
-\scratchdimen=\dimen322
-\scratchbox=\box83
-\nofMPsegments=\count355
-\nofMParguments=\count356
-\everyMPshowfont=\toks58
-\MPscratchCnt=\count357
-\MPscratchDim=\dimen323
-\MPnumerator=\count358
-\makeMPintoPDFobject=\count359
-\everyMPtoPDFconversion=\toks59
+\scratchcounter=\count359
+\scratchdimen=\dimen342
+\scratchbox=\box85
+\nofMPsegments=\count360
+\nofMParguments=\count361
+\everyMPshowfont=\toks60
+\MPscratchCnt=\count362
+\MPscratchDim=\dimen343
+\MPnumerator=\count363
+\makeMPintoPDFobject=\count364
+\everyMPtoPDFconversion=\toks61
 )
 (C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -1125,63 +1185,63 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 17.
+Package hyperref Info: Link coloring OFF on input line 20.
  (presentacion_co-location_bchd.out) (presentacion_co-location_bchd.out)
 \@outlinefile=\write5
 \openout5 = `presentacion_co-location_bchd.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 17.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 20.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 17.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 20.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 17.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 17.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 17.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 17.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 20.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 17.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 17.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 17.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 20.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 17.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 17.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 17.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 20.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 17.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 17.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 20.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 17.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 20.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 17.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 17.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 17.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 17.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 17.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 17.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 17.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 20.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 20.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
-7.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 2
+0.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 1
-7.
+(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 2
+0.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 17.
+ut line 20.
 
 (C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
 asic-dictionary-English.dict
@@ -1207,8 +1267,8 @@ Dictionary: translator-numbers-dictionary, Language: English
 heorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \. on input line 17.
-LaTeX Info: Redefining \% on input line 17.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
 
 Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.18} (current compat level: 1.17).
@@ -1220,49 +1280,36 @@ version <1.7>, but at most version <1.5> allowed
 <./figs/Logos.pdf, id=26, 568.92549pt x 72.27pt>
 File: ./figs/Logos.pdf Graphic file (type pdf)
 <use ./figs/Logos.pdf>
-Package pdftex.def Info: ./figs/Logos.pdf  used on input line 24.
+Package pdftex.def Info: ./figs/Logos.pdf  used on input line 27.
 (pdftex.def)             Requested size: 308.06367pt x 39.13327pt.
 
-Overfull \vbox (1.51678pt too high) detected at line 24
+Overfull \vbox (1.51678pt too high) detected at line 27
  []
 
 [1
 
 {C:/Users/bchai/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./figs/Logos
-.pdf>] [2
+.pdf>]
+(C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd)
+(C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd)
+(C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1mathk
+erncmss.fd)
+(C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmss.fd)
+[2
 
 ] [3
 
+] [4
+
 ]
-<./figs/Nonaka.pdf, id=123, 553.87726pt x 539.4233pt>
+<./figs/Nonaka.pdf, id=152, 553.87726pt x 539.4233pt>
 File: ./figs/Nonaka.pdf Graphic file (type pdf)
 <use ./figs/Nonaka.pdf>
-Package pdftex.def Info: ./figs/Nonaka.pdf  used on input line 56.
+Package pdftex.def Info: ./figs/Nonaka.pdf  used on input line 103.
 (pdftex.def)             Requested size: 232.76335pt x 226.68793pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 56.
+ [5
 
-
-(C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 56.
-
-
-(C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 56.
-
-(C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1mathk
-erncmss.fd
-File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
-thkerncmss.
-) [4
-
- <./figs/Nonaka.pdf>] [5
-
-] [6
+ <./figs/Nonaka.pdf>] [6
 
 ] [7
 
@@ -1270,12 +1317,14 @@ thkerncmss.
 
 ] [9
 
+] [10
+
 ]
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on i
-nput line 146.
+nput line 193.
 
 (C:\Users\bchai\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
-mefree0.fd) [10
+mefree0.fd) [11
 
 {C:/Users/bchai/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5f
 ree0.enc}]
@@ -1301,26 +1350,27 @@ hanged.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 39764 strings out of 474824
- 946935 string characters out of 5750976
+ 39985 strings out of 474824
+ 950921 string characters out of 5750976
  1941043 words of memory out of 5000000
- 61005 multiletter control sequences out of 15000+600000
- 570270 words of font info for 79 fonts, out of 8000000 for 9000
+ 61211 multiletter control sequences out of 15000+600000
+ 570971 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,18n,123p,752b,2219s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/bchai/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5
-/FontAwesome5Free-Solid.pfb><C:/Users/bchai/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/bchai/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/bchai/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/bchai/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/bchai/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users
-/bchai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pf
-b><C:/Users/bchai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmssi10.pfb>
-Output written on presentacion_co-location_bchd.pdf (10 pages, 320782 bytes).
+ 128i,18n,123p,748b,2219s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\bchai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcsx
+0600.pk><C:/Users/bchai/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontaw
+esome5/FontAwesome5Free-Solid.pfb><C:/Users/bchai/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/bchai/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/bchai/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/bchai/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/b
+chai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:
+/Users/bchai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssb
+x10.pfb><C:/Users/bchai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmssi10.pfb>
+Output written on presentacion_co-location_bchd.pdf (11 pages, 331978 bytes).
 PDF statistics:
- 458 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
+ 490 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
  143 words of extra memory for PDF output out of 10000 (max. 10000000)
 

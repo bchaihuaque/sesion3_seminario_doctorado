@@ -7,6 +7,9 @@
 \usepackage{fontawesome5}
 \usepackage{graphicx}
 \usepackage{pgfplots}
+\usepackage{tabularx}
+\usepackage{booktabs}  % para líneas horizontales más elegantes
+\usepackage[table]{xcolor}  % opcional: para sombreado o color si lo deseas
 \pgfplotsset{compat=1.17}
 
 \title[Co-localización Ciencia y Tecnología]{The Organization of Corporate Science and Technology:\\ Out of Sight, Out of Mind?}
@@ -24,6 +27,50 @@
 	\end{frame}
 	
 	% Slide: Objetivo
+	\begin{frame}{Problema de investigación}
+		\small
+		\textit{Aunque las empresas biofarmacéuticas invierten significativamente en investigación científica, solo una fracción de estos descubrimientos se traduce en innovaciones tecnológicas.}
+		
+		\vspace{1em}
+		\textbf{Tabla 1.} \textit{Principales economías por inversión en I+D}
+		
+		\vspace{0.5em}
+		\renewcommand{\arraystretch}{1.1}
+		\tiny
+		\begin{tabularx}{\textwidth}{@{}l r X@{}}
+			\toprule
+			\textbf{Economía} & \textbf{Inversión media (M€)} & \textbf{Tres primeras empresas (y sector)} \\
+			\midrule
+			Estados Unidos & 31\,350 & 
+			1. Alphabet (Software y servicios informáticos) \newline
+			2. Meta (Software y servicios informáticos) \newline
+			3. Microsoft (Software y servicios informáticos) \\
+			\addlinespace
+			
+			China & 12\,282 & 
+			1. Huawei Investment \& Holding (Aparatos y equipamientos tecnológicos) \newline
+			2. Tencent (Software y servicios informáticos) \newline
+			3. Alibaba Group Holding (Software y servicios informáticos) \\
+			\addlinespace
+			
+			Alemania & 11\,633 & 
+			1. Volkswagen (Automóviles y componentes) \newline
+			2. Mercedes-Benz (Automóviles y componentes) \newline
+			3. Robert Bosch (Automóviles y componentes) \\
+			\addlinespace
+			
+			Suiza & 8\,241 & 
+			1. Roche (Productos farmacéuticos y de biotecnología) \newline
+			2. Novartis (Productos farmacéuticos y de biotecnología) \newline
+			3. Nestlé (Producción de alimentos) \\
+			\bottomrule
+		\end{tabularx}
+		
+		\vspace{0.7em}
+		\centering
+		%\scriptsize \textit{Inversión en I+D de las principales economías}
+	\end{frame}
+	
 	\begin{frame}{Objetivo del Estudio}
 		\begin{itemize}
 			\item Analizar cómo la \textbf{co-localización geográfica} de actividades científicas y tecnológicas en empresas biofarmacéuticas influye en la capacidad de explotar ciencia interna.
