@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.23)  5 JUL 2025 11:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.23)  5 JUL 2025 12:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1352,7 +1352,7 @@ hanged.
 Here is how much of TeX's memory you used:
  39985 strings out of 474824
  950921 string characters out of 5750976
- 1941043 words of memory out of 5000000
+ 1942043 words of memory out of 5000000
  61211 multiletter control sequences out of 15000+600000
  570971 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1368,7 +1368,7 @@ chai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:
 /Users/bchai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssb
 x10.pfb><C:/Users/bchai/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmssi10.pfb>
-Output written on presentacion_co-location_bchd.pdf (11 pages, 331978 bytes).
+Output written on presentacion_co-location_bchd.pdf (11 pages, 333083 bytes).
 PDF statistics:
  490 PDF objects out of 1000 (max. 8388607)
  23 named destinations out of 1000 (max. 500000)
